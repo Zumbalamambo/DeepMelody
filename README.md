@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+***
+![DeepMelody](https://user-images.githubusercontent.com/25820201/31271788-570dc9c8-aabb-11e7-8575-480652b8d7ea.png)
 
-You can use the [editor on GitHub](https://github.com/Ryan-Kan/DeepMelody/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Using Keras & Tensorflow to generate midi music pieces
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I made [*DeepMelody*](https://ryan-kan.github.io/DeepMelody/) for the sole purpose of generating music easily and quickly. Other programs seem too complex to be used, and I thus taken up the challenge to code something that is my own. That is the origin story of DeepMelody.
 
-### Markdown
+***
+### Dependencies
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [Mido](https://mido.readthedocs.io/en/latest/installing.html) (Midi file reader)
+* [Tensorflow](https://www.tensorflow.org/install/) (Machine learning brains)
+* [Keras](https://keras.io/#installation) (Machine learning helper)
+### Citations
 
-```markdown
-Syntax highlighted code block
+This project derived some of its code from [DeepJazz](https://github.com/jisungk/deepjazz) by [jisungk](https://github.com/jisungk). Thank you!
+### Code License, Media Copyright
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ryan-Kan/DeepMelody/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Code is licensed under the Apache License 2.0  
+Images and media are copyrighted (Ryan Kan)
