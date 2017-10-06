@@ -11,6 +11,7 @@ I made [*DeepMelody*](https://ryan-kan.github.io/DeepMelody/) for the sole purpo
 * [Mido](https://mido.readthedocs.io/en/latest/installing.html) (Midi file reader)
 * [Tensorflow](https://www.tensorflow.org/install/) (Machine learning brains)
 * [Keras](https://keras.io/#installation) (Machine learning helper)
+
 ### Citations
 
 This project derived some of its code from [DeepJazz](https://github.com/jisungk/deepjazz) by [jisungk](https://github.com/jisungk). Thank you!
